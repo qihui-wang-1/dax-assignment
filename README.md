@@ -26,4 +26,4 @@ Also list the questions you'd need answered if there are any, along with the ass
 
 ## What to send
 
-Keep it around 1 page in any format. Pseudocode or a sketch of a scoring function is welcome if it helps, but it's optional and we won't evaluate it as code.
+Keep the plan around 1 page in any format. Pseudocode or a sketch of a scoring function is welcome if it helps, but it's optional and we won't evaluate it as code. Also log the prompt if any AI tool is used.
